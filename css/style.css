@@ -1,4 +1,38 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+/* navbar start  section */
+header {
+  /* width: 128px;
+  height: 33px;
+  display: flex;
+  align-items: center; */
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+.nav-titel {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 28px;
+  font-weight: 800;
+}
+.nav-button {
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  border-radius: 8px;
+
+  opacity: 0.8;
+  width: 244px;
+  height: 57px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* navbar end section */
+
 /* hero section start hear */
 
 .hero {
