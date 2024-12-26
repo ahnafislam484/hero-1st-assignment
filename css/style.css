@@ -98,7 +98,7 @@ nav {
   /* border: 2px solid red; */
 }
 .second-head-section {
-  /* border: 2px solid black; */
+  border: 2px solid black;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -384,3 +384,126 @@ font-weight: 400;
 
 }
 /* end 4th no page  */
+
+ /* start extra section */
+
+ .extra{
+/* border: 2px solid black; */
+max-width: 80%;
+margin: 0 auto;
+margin-top: 50px;
+ }
+.extra-section-titel{
+  /* border: 5px solid green; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+.extra-section-titel h3{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.extra-section-titel p{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+ .extra-section-content{
+  /* border: 2px solid rgb(246, 34, 34); */
+  
+ }
+ .content-1{
+border: 1px solid black;
+display: flex;
+border-radius: 15px;
+margin-bottom: 20px;
+
+ }
+ .content-1 h3{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+ }
+ .content-1 p{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400
+ }
+ .content-2{
+  border: 1px solid black;
+  display: flex;
+  margin-bottom: 20px;
+  border-radius: 15px;
+
+ }
+ .content-2 h3{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+ }
+ .content-2 p{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400
+ }
+ .content-3{
+  border: 1px solid black;
+  display: flex;
+  border-radius: 15px;
+  margin-bottom: 20px;
+
+ }
+ .content-3 h3{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+ }
+ .content-3 p{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400
+ }
+ .extra-img-1{
+
+ }
+ .extra-titel-1{
+
+ }
+ .extra-img-2{
+
+ }
+ .extra-titel-2{
+
+ }
+
+ .extra-titel-3{
+  /* border: 2px solid orange; */
+  padding: 15px;
+ }
+ .extra-img-3{
+  /* border: 2px solid rgb(0, 0, 0); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+ }
+ /* end extra section */
