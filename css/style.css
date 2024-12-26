@@ -97,7 +97,7 @@ nav {
   /* border: 2px solid red; */
 }
 .second-head-section {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -480,18 +480,7 @@ font-weight: 800;
   font-size: 16px;
   font-weight: 400
  }
- .extra-img-1{
 
- }
- .extra-titel-1{
-
- }
- .extra-img-2{
-
- }
- .extra-titel-2{
-
- }
 
  .extra-titel-3{
   /* border: 2px solid orange; */
@@ -550,6 +539,7 @@ justify-content: center;
   font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
+  text-align: center;
 }
 .challenge-description{
   display: flex;
