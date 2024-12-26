@@ -282,3 +282,105 @@ opacity: 0.7;
 
 }
 /* end 3rd page hear */
+
+
+/* start 4th no page  */
+.fore{
+/* border: 2px solid black; */
+max-width: 80%;
+min-height: 600px;
+margin: 0 auto;
+margin-top:50px ;
+}
+.fore-titel{
+  /* border: 2px solid rgb(210, 18, 18); */
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+.fore-titel h3{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.fore-titel p{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+}
+.fore-content{
+/* border: 2px solid magenta; */
+display: flex;
+/* align-items: center; */
+/* background-color: antiquewhite; */
+padding: 25px;
+gap: 15px;
+margin-top: 48px;
+}
+.fore-content-1{
+  /* border: 2px solid green; */
+  width: 600px;
+  height: 300px;
+  padding: 20px;
+  background: rgba(255, 76, 30, 0.05);
+  border-radius: 16px;
+}
+.fore-content-2{
+  /* border: 2px solid green; */
+  width: 600px;
+  height: 300px;
+  padding: 20px;
+  background: rgba(0, 76, 232, 0.05);
+  border-radius: 16px;
+}
+.fore-content-3{
+  /* border: 2px solid green; */
+  width: 600px;
+  height: 300px;
+  padding: 20px;
+  background: rgba(255, 223, 0, 0.05);
+  border-radius: 16px;
+  
+}
+.fore-content-1 h3{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+}
+.fore-content-2 h3{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+}
+.fore-content-3 h3{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+}
+.fore-content-1 p{
+  opacity: 0.7;
+  font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+
+}
+.fore-content-2 p{
+  opacity: 0.7;
+  font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+
+}
+.fore-content-3 p{
+  opacity: 0.7;
+  font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+
+}
+/* end 4th no page  */
